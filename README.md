@@ -33,12 +33,6 @@ O objetivo é adivinhar um número secreto gerado aleatoriamente pelo computador
 
 ---
 
-## 📸 Demonstração
-
-![Exemplo do jogo](assets/numero-secreto.png)
-
----
-
 ## 💡 Observações
 
 - O número secreto é gerado aleatoriamente a cada nova partida.  
