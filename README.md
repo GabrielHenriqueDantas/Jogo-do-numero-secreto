@@ -40,13 +40,13 @@ O objetivo é adivinhar um número secreto gerado aleatoriamente pelo computador
 
 ---
 
+## 📂 Estrutura do projeto
 numero-secreto/
 ├─ index.html
 ├─ style.css
 ├─ app.js
 └─ assets/
 └─ numero-secreto.png
-
 
 ---
 
@@ -62,6 +62,4 @@ numero-secreto/
 
 Projeto desenvolvido como **atividade prática do curso One da Alura em parceria com a Oracle**, com o objetivo de aplicar conhecimentos em HTML, CSS e JavaScript de forma prática e divertida.
 
-
-## 📂 Estrutura do projeto
 
